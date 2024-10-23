@@ -12,6 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\ReportManagementAPI.Application\ReportManagementAPI.Application.csproj" />
     <ProjectReference Include="..\ReportManagementAPI.Domain\ReportManagementAPI.Domain.csproj" />
   </ItemGroup>
 
